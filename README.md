@@ -1,8 +1,3 @@
-# Customer-Segmentation-and-Recommendation-System
-Here's a detailed description of your project for the `.readme` file:
-
----
-
 # Customer Segmentation and Product Recommendation System
 
 ## Overview
